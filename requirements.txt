@@ -1,0 +1,7 @@
+flask
+easyocr
+pdf2image
+PIL
+numpy
+os
+tempfile
